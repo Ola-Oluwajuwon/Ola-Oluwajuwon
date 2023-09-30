@@ -1,4 +1,4 @@
-### Profile & Interests
+### 🧑 Profile & Interests
 - 👋 Hi, I’m @Ola-Oluwajuwon
 - 👩‍💻 Bootstrap Guru | jQuery Ninja | JScript Maven | CSS3 Whiz | HTML5 Geek
 - 🔭 I’m working on Projects with Bootstrap5, jQuery and Reactjs
